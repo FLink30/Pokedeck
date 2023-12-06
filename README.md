@@ -18,3 +18,4 @@ Pokedeck was built using the following technologies:
 - Swift
 - SwiftUI
 - SwiftData
+- Communication with PokemonAPI
